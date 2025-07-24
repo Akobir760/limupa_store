@@ -9,7 +9,6 @@ class BasicModel(models.Model):
 
 class ContactModel(BasicModel):
     name = models.CharField(max_length=123)
-    phone_number = models.CharField(max_length=123, null=True, blank=True)
     email = models.EmailField(max_length=123)
     subject = models.CharField(max_length=123)
     message = models.TextField()
