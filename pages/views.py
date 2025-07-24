@@ -14,7 +14,7 @@ def contact_page_view(request):
             messages.success(request, "Your message has been send to admins ✅")
         else:
             messages.error(request, "Please, check your data ❌")
-            return redirect("pages:contact")
+        return redirect("pages:contact")
     else:
         return render(request, 'htmls/contact.html')
 
