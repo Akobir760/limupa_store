@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
-from django.contrib.auth import authenticate, login
+from django.contrib.auth import authenticate, login, logout
 from django.http import HttpResponse
-from user.forms import LoginForm
+from user.forms import LoginForm, RegisterForm
 
 
 def login_page(request):
@@ -26,5 +26,24 @@ def login_page(request):
 
 
 def register_page(request):
-    return render(request, template_name='htmls/login-register.html')
+    form = RegisterForm()
+    if request.method == "POST":
+        form = RegisterForm(request.POST)
+        if form.is_valid():
+            user = form.save(commit=False)
+            user.set_password(user.password)
+            user.save()
+            login(request=request, user=user)
+            return redirect("pages:home")
+        
+
+    context = {
+        'form': form
+    }
+
+    return render(request=request, template_name='htmls/register.html', context=context)
+
+def logout_page(request):
+    logout(request)
+    return redirect("pages:home")
 
