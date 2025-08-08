@@ -1,0 +1,375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-08 23:30+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\core\settings.py:116 .\templates\layout\header-base.html:57
+#: .\templates\layout\header-home.html:58
+msgid "English"
+msgstr ""
+
+#: .\core\settings.py:117
+msgid "Ozbekcha"
+msgstr ""
+
+#: .\templates\htmls\about.html:63 .\templates\htmls\blog.html:63
+#: .\templates\htmls\contact.html:63 .\templates\htmls\shop-4-column.html:63
+#: .\templates\layout\header-base.html:241
+#: .\templates\layout\header-home.html:242
+msgid "Home"
+msgstr ""
+
+#: .\templates\htmls\about.html:64 .\templates\layout\footer.html:117
+#: .\templates\layout\header-base.html:247
+#: .\templates\layout\header-home.html:250
+msgid "About us"
+msgstr ""
+
+#: .\templates\htmls\about.html:77
+msgid "Provide Best"
+msgstr ""
+
+#: .\templates\htmls\about.html:77
+msgid "Product For You"
+msgstr ""
+
+#: .\templates\htmls\about.html:111
+msgid "HAPPY CUSTOMERS"
+msgstr ""
+
+#: .\templates\htmls\about.html:129
+msgid "AWARDS WINNED"
+msgstr ""
+
+#: .\templates\htmls\about.html:146
+msgid "HOURS WORKED"
+msgstr ""
+
+#: .\templates\htmls\about.html:163
+msgid "COMPLETE PROJECTS"
+msgstr ""
+
+#: .\templates\htmls\about.html:179
+msgid "our team"
+msgstr ""
+
+#: .\templates\htmls\blog.html:205
+msgid "Previous"
+msgstr ""
+
+#: .\templates\htmls\blog.html:209
+msgid "Next"
+msgstr ""
+
+#: .\templates\htmls\contact.html:64 .\templates\layout\header-base.html:248
+#: .\templates\layout\header-home.html:251
+msgid "Contact"
+msgstr ""
+
+#: .\templates\htmls\contact.html:86
+msgid "Contact Us"
+msgstr ""
+
+#: .\templates\htmls\contact.html:89 .\templates\layout\footer.html:83
+msgid "Address"
+msgstr ""
+
+#: .\templates\htmls\contact.html:93 .\templates\layout\footer.html:87
+msgid "Phone"
+msgstr ""
+
+#: .\templates\htmls\contact.html:98 .\templates\layout\footer.html:91
+msgid "Email"
+msgstr ""
+
+#: .\templates\htmls\contact.html:106
+msgid "Tell Us Your Message"
+msgstr ""
+
+#: .\templates\htmls\contact.html:111
+msgid "Your Name"
+msgstr ""
+
+#: .\templates\htmls\contact.html:115
+msgid "Your Email "
+msgstr ""
+
+#: .\templates\htmls\contact.html:119
+msgid "Subject"
+msgstr ""
+
+#: .\templates\htmls\contact.html:123
+msgid "Your Message"
+msgstr ""
+
+#: .\templates\htmls\contact.html:127
+msgid "SEND"
+msgstr ""
+
+#: .\templates\htmls\shop-4-column.html:64
+#: .\templates\layout\header-base.html:243
+#: .\templates\layout\header-home.html:246
+msgid "Shop"
+msgstr ""
+
+#: .\templates\htmls\shop-4-column.html:153
+#: .\templates\htmls\shop-4-column.html:194
+#: .\templates\htmls\shop-4-column.html:276
+msgid "Add to cart"
+msgstr ""
+
+#: .\templates\htmls\shop-4-column.html:169
+#: .\templates\htmls\shop-4-column.html:210
+#: .\templates\htmls\shop-4-column.html:251
+#: .\templates\htmls\shop-4-column.html:292
+msgid "New"
+msgstr ""
+
+#: .\templates\htmls\shop-4-column.html:657
+msgid "Add to wishlist"
+msgstr ""
+
+#: .\templates\layout\footer.html:17
+msgid "Free Delivery"
+msgstr ""
+
+#: .\templates\layout\footer.html:18
+msgid "And free returns. See checkout for delivery dates."
+msgstr ""
+
+#: .\templates\layout\footer.html:30
+msgid "Safe Payment"
+msgstr ""
+
+#: .\templates\layout\footer.html:31
+msgid "Pay with the world"
+msgstr ""
+
+#: .\templates\layout\footer.html:43
+msgid "Shop with Confidence"
+msgstr ""
+
+#: .\templates\layout\footer.html:44
+msgid "Our Buyer Protection covers your purchasefrom click to delivery."
+msgstr ""
+
+#: .\templates\layout\footer.html:56
+msgid "24/7 Help Center"
+msgstr ""
+
+#: .\templates\layout\footer.html:57
+msgid "Have a question? Call a Specialist or chat online."
+msgstr ""
+
+#: .\templates\layout\footer.html:78
+msgid ""
+"We are a team of designers and developers that create high quality HTML "
+"Template & Woocommerce, Shopify Theme."
+msgstr ""
+
+#: .\templates\layout\footer.html:100
+msgid "Product"
+msgstr ""
+
+#: .\templates\layout\footer.html:102
+msgid "Prices drop"
+msgstr ""
+
+#: .\templates\layout\footer.html:103
+msgid "New products"
+msgstr ""
+
+#: .\templates\layout\footer.html:104
+msgid "Best sales"
+msgstr ""
+
+#: .\templates\layout\footer.html:105
+msgid "Contact us"
+msgstr ""
+
+#: .\templates\layout\footer.html:113
+msgid "Our company"
+msgstr ""
+
+#: .\templates\layout\footer.html:115
+msgid "Delivery"
+msgstr ""
+
+#: .\templates\layout\footer.html:116
+msgid "Legal Notice"
+msgstr ""
+
+#: .\templates\layout\footer.html:126
+msgid "Follow Us"
+msgstr ""
+
+#: .\templates\layout\footer.html:162
+msgid "Sign up to newsletter"
+msgstr ""
+
+#: .\templates\layout\footer.html:167
+msgid "Subscribe"
+msgstr ""
+
+#: .\templates\layout\footer.html:188
+msgid "Online Shopping"
+msgstr ""
+
+#: .\templates\layout\footer.html:189
+msgid "Promotions"
+msgstr ""
+
+#: .\templates\layout\footer.html:190
+msgid "My Orders"
+msgstr ""
+
+#: .\templates\layout\footer.html:191
+msgid "Help"
+msgstr ""
+
+#: .\templates\layout\footer.html:192
+msgid "Customer Service"
+msgstr ""
+
+#: .\templates\layout\footer.html:193
+msgid "Support"
+msgstr ""
+
+#: .\templates\layout\footer.html:194
+msgid "Most Populars"
+msgstr ""
+
+#: .\templates\layout\footer.html:195
+msgid "New Arrivals"
+msgstr ""
+
+#: .\templates\layout\footer.html:196
+msgid "Special Products"
+msgstr ""
+
+#: .\templates\layout\footer.html:197
+msgid "Manufacturers"
+msgstr ""
+
+#: .\templates\layout\footer.html:198
+msgid "Our Stores"
+msgstr ""
+
+#: .\templates\layout\footer.html:199
+msgid "Shipping"
+msgstr ""
+
+#: .\templates\layout\footer.html:200
+msgid "Payments"
+msgstr ""
+
+#: .\templates\layout\footer.html:201
+msgid "Warantee"
+msgstr ""
+
+#: .\templates\layout\footer.html:202 .\templates\layout\footer.html:205
+msgid "Refunds"
+msgstr ""
+
+#: .\templates\layout\footer.html:203 .\templates\layout\header-base.html:28
+#: .\templates\layout\header-home.html:28
+msgid "Checkout"
+msgstr ""
+
+#: .\templates\layout\footer.html:204
+msgid "Discount"
+msgstr ""
+
+#: .\templates\layout\footer.html:206
+msgid "Policy Shipping"
+msgstr ""
+
+#: .\templates\layout\footer.html:219
+msgid "Templates Hub"
+msgstr ""
+
+#: .\templates\layout\header-base.html:13
+#: .\templates\layout\header-home.html:13
+msgid "Telephone Enquiry"
+msgstr ""
+
+#: .\templates\layout\header-base.html:24
+#: .\templates\layout\header-home.html:24
+msgid "Setting"
+msgstr ""
+
+#: .\templates\layout\header-base.html:27
+msgid "My account"
+msgstr ""
+
+#: .\templates\layout\header-base.html:30
+#: .\templates\layout\header-home.html:31
+msgid "Logout"
+msgstr ""
+
+#: .\templates\layout\header-base.html:32
+#: .\templates\layout\header-home.html:33
+msgid "Sign in"
+msgstr ""
+
+#: .\templates\layout\header-base.html:33
+#: .\templates\layout\header-home.html:34
+msgid "Register"
+msgstr ""
+
+#: .\templates\layout\header-base.html:41
+#: .\templates\layout\header-home.html:42
+msgid "Currency"
+msgstr ""
+
+#: .\templates\layout\header-base.html:53
+#: .\templates\layout\header-home.html:54
+msgid "Language"
+msgstr ""
+
+#: .\templates\layout\header-base.html:54
+#: .\templates\layout\header-base.html:58
+#: .\templates\layout\header-home.html:55
+#: .\templates\layout\header-home.html:59
+msgid "Uzbek"
+msgstr ""
+
+#: .\templates\layout\header-base.html:245
+#: .\templates\layout\header-home.html:248
+msgid "Blog"
+msgstr ""
+
+#: .\templates\layout\header-home.html:27
+msgid "My Account"
+msgstr ""
+
+#: .\user\manager.py:15
+msgid "The Email must be set"
+msgstr ""
+
+#: .\user\manager.py:31
+msgid "Superuser must have is_staff=True."
+msgstr ""
+
+#: .\user\manager.py:33
+msgid "Superuser must have is_superuser=True."
+msgstr ""
+
+#: .\user\models.py:10
+msgid "email address"
+msgstr ""

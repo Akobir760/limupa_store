@@ -6,6 +6,18 @@ from django.contrib import messages
 def home_page_view(request):
     return render(request, template_name='index.html')
 
+
+def shop_page_view(request):
+    return render(request, template_name='htmls/shop-4-column.html')
+
+
+def blog_page_view(request):
+    return render(request, template_name='htmls/blog.html')
+
+
+def about_page_view(request):
+    return render(request, template_name='htmls/about.html')
+
 def contact_page_view(request):
     if request.method == "POST":
         form = ContactModelForm(request.POST)

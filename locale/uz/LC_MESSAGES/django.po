@@ -1,0 +1,375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-08 23:30+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\core\settings.py:116 .\templates\layout\header-base.html:57
+#: .\templates\layout\header-home.html:58
+msgid "English"
+msgstr "Ingliz tili"
+
+#: .\core\settings.py:117
+msgid "Ozbekcha"
+msgstr ""
+
+#: .\templates\htmls\about.html:63 .\templates\htmls\blog.html:63
+#: .\templates\htmls\contact.html:63 .\templates\htmls\shop-4-column.html:63
+#: .\templates\layout\header-base.html:241
+#: .\templates\layout\header-home.html:242
+msgid "Home"
+msgstr "Asosiy"
+
+#: .\templates\htmls\about.html:64 .\templates\layout\footer.html:117
+#: .\templates\layout\header-base.html:247
+#: .\templates\layout\header-home.html:250
+msgid "About us"
+msgstr "Biz haqimizda"
+
+#: .\templates\htmls\about.html:77
+msgid "Provide Best"
+msgstr "Eng yaxshisini taqdim eting"
+
+#: .\templates\htmls\about.html:77
+msgid "Product For You"
+msgstr "Siz uchun mahsulot"
+
+#: .\templates\htmls\about.html:111
+msgid "HAPPY CUSTOMERS"
+msgstr "Baxtli mijozlar"
+
+#: .\templates\htmls\about.html:129
+msgid "AWARDS WINNED"
+msgstr "Yutilgan Mukofotlar"
+
+#: .\templates\htmls\about.html:146
+msgid "HOURS WORKED"
+msgstr "Ishlangan Soatlar"
+
+#: .\templates\htmls\about.html:163
+msgid "COMPLETE PROJECTS"
+msgstr "Bajarilgan Loyihalar"
+
+#: .\templates\htmls\about.html:179
+msgid "our team"
+msgstr "Bizning Jamoa"
+
+#: .\templates\htmls\blog.html:205
+msgid "Previous"
+msgstr "Orqaga"
+
+#: .\templates\htmls\blog.html:209
+msgid "Next"
+msgstr "oldinga"
+
+#: .\templates\htmls\contact.html:64 .\templates\layout\header-base.html:248
+#: .\templates\layout\header-home.html:251
+msgid "Contact"
+msgstr "Aloqa"
+
+#: .\templates\htmls\contact.html:89 .\templates\layout\footer.html:83
+msgid "Address"
+msgstr "Manzil"
+
+#: .\templates\htmls\contact.html:93 .\templates\layout\footer.html:87
+msgid "Phone"
+msgstr "Telefon raqam"
+
+#: .\templates\htmls\contact.html:98 .\templates\layout\footer.html:91
+msgid "Email"
+msgstr ""
+
+#: .\templates\htmls\contact.html:106
+msgid "Tell Us Your Message"
+msgstr "Bizga xabaringizni yuboring"
+
+#: .\templates\htmls\contact.html:111
+msgid "Your Name"
+msgstr "Ismingiz"
+
+#: .\templates\htmls\contact.html:115
+msgid "Your Email "
+msgstr "Sizning emailingiz"
+
+#: .\templates\htmls\contact.html:119
+msgid "Subject"
+msgstr "Mavzu"
+
+#: .\templates\htmls\contact.html:123
+msgid "Your Message"
+msgstr "Bizning Jamoa"
+
+#: .\templates\htmls\contact.html:127
+msgid "SEND"
+msgstr "Yuborish"
+
+#: .\templates\htmls\shop-4-column.html:64
+#: .\templates\layout\header-base.html:243
+#: .\templates\layout\header-home.html:246
+msgid "Shop"
+msgstr "Do'kon"
+
+#: .\templates\htmls\shop-4-column.html:153
+#: .\templates\htmls\shop-4-column.html:194
+#: .\templates\htmls\shop-4-column.html:276
+msgid "Add to cart"
+msgstr "Savatga qo'shish"
+
+#: .\templates\htmls\shop-4-column.html:169
+#: .\templates\htmls\shop-4-column.html:210
+#: .\templates\htmls\shop-4-column.html:251
+#: .\templates\htmls\shop-4-column.html:292
+msgid "New"
+msgstr "Yangi"
+
+#: .\templates\htmls\shop-4-column.html:657
+msgid "Add to wishlist"
+msgstr "Istaklar ro'yxatiga qo'shing"
+
+#: .\templates\layout\footer.html:17
+msgid "Free Delivery"
+msgstr "Tekin yetkazib berish"
+
+#: .\templates\layout\footer.html:18
+msgid "And free returns. See checkout for delivery dates."
+msgstr "Va bepul qaytish. Yetkazib berish sanalari uchun to'lovni ko'ring."
+
+#: .\templates\layout\footer.html:30
+msgid "Safe Payment"
+msgstr "Xavfsiz to'lov"
+
+#: .\templates\layout\footer.html:31
+msgid "Pay with the world"
+msgstr "Dunyo bilan to'lang"
+
+#: .\templates\layout\footer.html:43
+msgid "Shop with Confidence"
+msgstr "Ishonch bilan xarid qiling"
+
+#: .\templates\layout\footer.html:44
+msgid "Our Buyer Protection covers your purchasefrom click to delivery."
+msgstr "Bizning Mijoz himoyasi sizning xaridingizni bosishdan to yetkazib berishgacha qamrab oladi."
+
+#: .\templates\layout\footer.html:56
+msgid "24/7 Help Center"
+msgstr "Yordam markazi 24/7"
+
+#: .\templates\layout\footer.html:57
+msgid "Have a question? Call a Specialist or chat online."
+msgstr "Savolingiz bormi? Mutaxassisga qo'ng'iroq qiling yoki onlayn suhbat qiling."
+
+#: .\templates\layout\footer.html:78
+msgid ""
+"We are a team of designers and developers that create high quality HTML "
+"Template & Woocommerce, Shopify Theme."
+msgstr "Biz yuqori sifatli HTML yaratuvchi dizaynerlar va ishlab chiquvchilar jamoasimiz"
+"Andoza va Woocommerce, Shopify mavzusi."
+
+#: .\templates\layout\footer.html:100
+msgid "Product"
+msgstr "Siz uchun mahsulot"
+
+#: .\templates\layout\footer.html:102
+msgid "Prices drop"
+msgstr "Arzon narxlar"
+
+#: .\templates\layout\footer.html:103
+msgid "New products"
+msgstr "Yangi mahsulotlar"
+
+#: .\templates\layout\footer.html:104
+msgid "Best sales"
+msgstr "Eng yaxshi sotuvlar"
+
+#: .\templates\layout\footer.html:105
+msgid "Contact us"
+msgstr "biz bilan bog'laning"
+
+#: .\templates\layout\footer.html:113
+msgid "Our company"
+msgstr "Bizning kompanya"
+
+#: .\templates\layout\footer.html:115
+msgid "Delivery"
+msgstr "Yetkazib berish"
+
+#: .\templates\layout\footer.html:116
+msgid "Legal Notice"
+msgstr "Huquqiy eslatma"
+
+#: .\templates\layout\footer.html:126
+msgid "Follow Us"
+msgstr "Bizga qo'shiling"
+
+#: .\templates\layout\footer.html:162
+msgid "Sign up to newsletter"
+msgstr "Axborot byulleteniga obuna bo'ling"
+
+#: .\templates\layout\footer.html:167
+msgid "Subscribe"
+msgstr "Obuna boʻling"
+
+#: .\templates\layout\footer.html:188
+msgid "Online Shopping"
+msgstr "Online xarid"
+
+#: .\templates\layout\footer.html:189
+msgid "Promotions"
+msgstr "Aksiyalar"
+
+#: .\templates\layout\footer.html:190
+msgid "My Orders"
+msgstr "Mening buyurtmalarim"
+
+#: .\templates\layout\footer.html:191
+msgid "Help"
+msgstr "Yordam"
+
+#: .\templates\layout\footer.html:192
+msgid "Customer Service"
+msgstr "Mijozlarga xizmat ko'rsatish"
+
+#: .\templates\layout\footer.html:193
+msgid "Support"
+msgstr "Qo'llab-quvvatlash"
+
+#: .\templates\layout\footer.html:194
+msgid "Most Populars"
+msgstr "Eng mashhurlari"
+
+#: .\templates\layout\footer.html:195
+msgid "New Arrivals"
+msgstr "Yangi kelganlar"
+
+#: .\templates\layout\footer.html:196
+msgid "Special Products"
+msgstr "Mahsus mahsulotlar"
+
+#: .\templates\layout\footer.html:197
+msgid "Manufacturers"
+msgstr "Ishlab chiqaruvchilar"
+
+#: .\templates\layout\footer.html:198
+msgid "Our Stores"
+msgstr "Bizning do'konlar"
+
+#: .\templates\layout\footer.html:199
+msgid "Shipping"
+msgstr "yuk tashish"
+
+#: .\templates\layout\footer.html:200
+msgid "Payments"
+msgstr "To'lov"
+
+#: .\templates\layout\footer.html:201
+msgid "Warantee"
+msgstr "Kafolat"
+
+#: .\templates\layout\footer.html:202 .\templates\layout\footer.html:205
+msgid "Refunds"
+msgstr "To'lovlarni qaytarish"
+
+#: .\templates\layout\footer.html:203 .\templates\layout\header-base.html:28
+#: .\templates\layout\header-home.html:28
+msgid "Checkout"
+msgstr "Ro'yxatdan o'chirilish"
+
+#: .\templates\layout\footer.html:204
+msgid "Discount"
+msgstr "Aksiya"
+
+#: .\templates\layout\footer.html:206
+msgid "Policy Shipping"
+msgstr "Yuk tashish siyosati"
+
+#: .\templates\layout\footer.html:219
+msgid "Templates Hub"
+msgstr "Shablonlar markazi"
+
+#: .\templates\layout\header-base.html:13
+#: .\templates\layout\header-home.html:13
+msgid "Telephone Enquiry"
+msgstr "Telefon"
+
+#: .\templates\layout\header-base.html:24
+#: .\templates\layout\header-home.html:24
+msgid "Setting"
+msgstr "Sozlamalar"
+
+#: .\templates\layout\header-base.html:27
+msgid "My account"
+msgstr "Mening accountim"
+
+#: .\templates\layout\header-base.html:30
+#: .\templates\layout\header-home.html:31
+msgid "Logout"
+msgstr "Chiqish"
+
+#: .\templates\layout\header-base.html:32
+#: .\templates\layout\header-home.html:33
+msgid "Sign in"
+msgstr "Kirish"
+
+#: .\templates\layout\header-base.html:33
+#: .\templates\layout\header-home.html:34
+msgid "Register"
+msgstr "Registratsiya"
+
+#: .\templates\layout\header-base.html:41
+#: .\templates\layout\header-home.html:42
+msgid "Currency"
+msgstr "Valyuta"
+
+#: .\templates\layout\header-base.html:53
+#: .\templates\layout\header-home.html:54
+msgid "Language"
+msgstr "Til"
+
+#: .\templates\layout\header-base.html:54
+#: .\templates\layout\header-base.html:58
+#: .\templates\layout\header-home.html:55
+#: .\templates\layout\header-home.html:59
+msgid "Uzbek"
+msgstr "O'zbek"
+
+#: .\templates\layout\header-base.html:245
+#: .\templates\layout\header-home.html:248
+msgid "Blog"
+msgstr ""
+
+#: .\templates\layout\header-home.html:27
+msgid "My Account"
+msgstr "Mening accountim"
+
+#: .\user\manager.py:15
+msgid "The Email must be set"
+msgstr "Email kiritish zarur"
+
+#: .\user\manager.py:31
+msgid "Superuser must have is_staff=True."
+msgstr ""
+
+#: .\user\manager.py:33
+msgid "Superuser must have is_superuser=True."
+msgstr ""
+
+#: .\user\models.py:10
+msgid "email address"
+msgstr "email manzil"
+
+#~ msgid "About Us"
+#~ msgstr "Biz haqimizda"

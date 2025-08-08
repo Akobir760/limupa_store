@@ -1,3 +1,6 @@
+{% load static %}
+{% load i18n %}
+
 <!doctype html>
 <html class="no-js" lang="zxx">
     
@@ -57,8 +60,8 @@
                 <div class="container">
                     <div class="breadcrumb-content">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active">Shop 4 Column</li>
+                            <li><a href="{% url 'pages:home' %}">{% trans 'Home' %}</a></li>
+                            <li class="active">{% trans 'Shop' %} </li>
                         </ul>
                     </div>
                 </div>
@@ -147,7 +150,7 @@
                                                             </div>
                                                             <div class="add-actions">
                                                                 <ul class="add-actions-link">
-                                                                    <li class="add-cart active"><a href="shopping-cart.html">Add to cart</a></li>
+                                                                    <li class="add-cart active"><a href="shopping-cart.html">{% trans 'Add to cart' %}</a></li>
                                                                     <li><a href="#" title="quick view" class="quick-view-btn" data-toggle="modal" data-target="#exampleModalCenter"><i class="fa fa-eye"></i></a></li>
                                                                     <li><a class="links-details" href="wishlist.html"><i class="fa fa-heart-o"></i></a></li>
                                                                 </ul>
@@ -163,7 +166,7 @@
                                                             <a href="single-product.html">
                                                                 <img src="{%  static 'images/product/large-size/2.jpg' %}" alt="Li's Product Image">
                                                             </a>
-                                                            <span class="sticker">New</span>
+                                                            <span class="sticker">{% trans 'New' %}</span>
                                                         </div>
                                                         <div class="product_desc">
                                                             <div class="product_desc_info">
@@ -188,7 +191,7 @@
                                                             </div>
                                                             <div class="add-actions">
                                                                 <ul class="add-actions-link">
-                                                                    <li class="add-cart active"><a href="shopping-cart.html">Add to cart</a></li>
+                                                                    <li class="add-cart active"><a href="shopping-cart.html">{% trans 'Add to cart' %}</a></li>
                                                                     <li><a href="#" title="quick view" class="quick-view-btn" data-toggle="modal" data-target="#exampleModalCenter"><i class="fa fa-eye"></i></a></li>
                                                                     <li><a class="links-details" href="wishlist.html"><i class="fa fa-heart-o"></i></a></li>
                                                                 </ul>
@@ -204,7 +207,7 @@
                                                             <a href="single-product.html">
                                                                 <img src="{%  static 'images/product/large-size/3.jpg' %}" alt="Li's Product Image">
                                                             </a>
-                                                            <span class="sticker">New</span>
+                                                            <span class="sticker">{% trans 'New' %}</span>
                                                         </div>
                                                         <div class="product_desc">
                                                             <div class="product_desc_info">
@@ -245,7 +248,7 @@
                                                             <a href="single-product.html">
                                                                 <img src="{%  static 'images/product/large-size/4.jpg' %}" alt="Li's Product Image">
                                                             </a>
-                                                            <span class="sticker">New</span>
+                                                            <span class="sticker">{% trans 'New' %}</span>
                                                         </div>
                                                         <div class="product_desc">
                                                             <div class="product_desc_info">
@@ -270,7 +273,7 @@
                                                             </div>
                                                             <div class="add-actions">
                                                                 <ul class="add-actions-link">
-                                                                    <li class="add-cart active"><a href="shopping-cart.html">Add to cart</a></li>
+                                                                    <li class="add-cart active"><a href="shopping-cart.html">{% trans 'Add to cart' %}</a></li>
                                                                     <li><a href="#" title="quick view" class="quick-view-btn" data-toggle="modal" data-target="#exampleModalCenter"><i class="fa fa-eye"></i></a></li>
                                                                     <li><a class="links-details" href="wishlist.html"><i class="fa fa-heart-o"></i></a></li>
                                                                 </ul>
@@ -286,7 +289,7 @@
                                                             <a href="single-product.html">
                                                                 <img src="{%  static 'images/product/large-size/5.jpg' %}" alt="Li's Product Image">
                                                             </a>
-                                                            <span class="sticker">New</span>
+                                                            <span class="sticker">{% trans 'New' %}</span>
                                                         </div>
                                                         <div class="product_desc">
                                                             <div class="product_desc_info">
@@ -651,7 +654,7 @@
                                                         <div class="shop-add-action mb-xs-30">
                                                             <ul class="add-actions-link">
                                                                 <li class="add-cart"><a href="#">Add to cart</a></li>
-                                                                <li class="wishlist"><a href="wishlist.html"><i class="fa fa-heart-o"></i>Add to wishlist</a></li>
+                                                                <li class="wishlist"><a href="wishlist.html"><i class="fa fa-heart-o"></i>{% trans 'Add to wishlist' %}</a></li>
                                                                 <li><a class="quick-view" data-toggle="modal" data-target="#exampleModalCenter" href="#"><i class="fa fa-eye"></i>Quick view</a></li>
                                                             </ul>
                                                         </div>

@@ -1,3 +1,6 @@
+{% load static %}
+{% load i18n %}
+
 <!doctype html>
 <html class="no-js" lang="zxx">
     
@@ -57,8 +60,8 @@
                 <div class="container">
                     <div class="breadcrumb-content">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active">About Us</li>
+                            <li><a href="{% url 'pages:home' %}">{% trans 'Home' %}</a></li>
+                            <li class="active">{% trans 'About us' %}</li>
                         </ul>
                     </div>
                 </div>
@@ -71,7 +74,7 @@
                         <!-- About Text Start -->
                         <div class="col-lg-6 order-last order-lg-first">
                             <div class="about-text-wrap">
-                                <h2><span>Provide Best</span>Product For You</h2>
+                                <h2><span>{% trans 'Provide Best' %}</span>{% trans 'Product For You' %}</h2>
                                 <p>We provide the best Beard oile all over the world. We are the worldd best store in indi for Beard Oil. You can buy our product without any hegitation because they truste us and buy our product without any hagitation because they belive and always happy buy our product.</p>
                                 <p>Some of our customer say’s that they trust us and buy our product without any hagitation because they belive us and always happy to buy our product.</p>
                                 <p>We provide the beshat they trusted us and buy our product without any hagitation because they belive us and always happy to buy.</p>
@@ -105,7 +108,7 @@
                                             <h3 class="counter">2169</h3>
                                         </div>
                                         <div class="counter-text">
-                                            <span>HAPPY CUSTOMERS</span>
+                                            <span>{% trans 'HAPPY CUSTOMERS' %}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +126,7 @@
                                         <h3 class="counter">869</h3>
                                     </div>
                                     <div class="counter-text">
-                                        <span>AWARDS WINNED</span>
+                                        <span>{% trans 'AWARDS WINNED' %}</span>
                                     </div>
                                 </div>
                             </div>
@@ -140,7 +143,7 @@
                                         <h3 class="counter">689</h3>
                                     </div>
                                     <div class="counter-text">
-                                        <span>HOURS WORKED</span>
+                                        <span>{% trans 'HOURS WORKED' %}</span>
                                     </div>
                                 </div>
                             </div>
@@ -157,7 +160,7 @@
                                         <h3 class="counter">2169</h3>
                                     </div>
                                     <div class="counter-text">
-                                        <span>COMPLETE PROJECTS</span>
+                                        <span>{% trans 'COMPLETE PROJECTS' %}</span>
                                     </div>
                                 </div>
                             </div>
@@ -173,7 +176,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="li-section-title capitalize mb-25">
-                                <h2><span>our team</span></h2>
+                                <h2><span>{% trans 'our team' %}</span></h2>
                             </div>
                         </div>
                     </div> <!-- section title end -->
