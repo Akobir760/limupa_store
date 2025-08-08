@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-08 23:30+0500\n"
+"POT-Creation-Date: 2025-08-08 23:59+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgstr ""
 msgid "Home"
 msgstr "Asosiy"
 
-#: .\templates\htmls\about.html:64 .\templates\layout\footer.html:117
+#: .\templates\htmls\about.html:64 .\templates\layout\footer.html:118
 #: .\templates\layout\header-base.html:247
 #: .\templates\layout\header-home.html:250
 msgid "About us"
@@ -81,15 +81,20 @@ msgstr "oldinga"
 msgid "Contact"
 msgstr "Aloqa"
 
-#: .\templates\htmls\contact.html:89 .\templates\layout\footer.html:83
+#: .\templates\htmls\contact.html:86 .\templates\layout\footer.html:106
+#: .\templates\layout\footer.html:119
+msgid "Contact us"
+msgstr "biz bilan bog'laning"
+
+#: .\templates\htmls\contact.html:89 .\templates\layout\footer.html:84
 msgid "Address"
 msgstr "Manzil"
 
-#: .\templates\htmls\contact.html:93 .\templates\layout\footer.html:87
+#: .\templates\htmls\contact.html:93 .\templates\layout\footer.html:88
 msgid "Phone"
 msgstr "Telefon raqam"
 
-#: .\templates\htmls\contact.html:98 .\templates\layout\footer.html:91
+#: .\templates\htmls\contact.html:98 .\templates\layout\footer.html:92
 msgid "Email"
 msgstr ""
 
@@ -140,163 +145,177 @@ msgstr "Yangi"
 msgid "Add to wishlist"
 msgstr "Istaklar ro'yxatiga qo'shing"
 
-#: .\templates\layout\footer.html:17
+#: .\templates\index.html:132
+msgid "New Arrival"
+msgstr "Yangi kelganlar"
+
+#: .\templates\index.html:133
+msgid "Bestseller"
+msgstr "Eng yaxshi sotuvlar"
+
+#: .\templates\index.html:134
+msgid "Featured Products"
+msgstr "Mahsus mahsulotlar"
+
+#: .\templates\layout\footer.html:18
 msgid "Free Delivery"
 msgstr "Tekin yetkazib berish"
 
-#: .\templates\layout\footer.html:18
+#: .\templates\layout\footer.html:19
 msgid "And free returns. See checkout for delivery dates."
 msgstr "Va bepul qaytish. Yetkazib berish sanalari uchun to'lovni ko'ring."
 
-#: .\templates\layout\footer.html:30
+#: .\templates\layout\footer.html:31
 msgid "Safe Payment"
 msgstr "Xavfsiz to'lov"
 
-#: .\templates\layout\footer.html:31
-msgid "Pay with the world"
+#: .\templates\layout\footer.html:32
+#, fuzzy
+#| msgid "Pay with the world"
+msgid "Pay with the world\\"
 msgstr "Dunyo bilan to'lang"
 
-#: .\templates\layout\footer.html:43
+#: .\templates\layout\footer.html:44
 msgid "Shop with Confidence"
 msgstr "Ishonch bilan xarid qiling"
 
-#: .\templates\layout\footer.html:44
+#: .\templates\layout\footer.html:45
 msgid "Our Buyer Protection covers your purchasefrom click to delivery."
-msgstr "Bizning Mijoz himoyasi sizning xaridingizni bosishdan to yetkazib berishgacha qamrab oladi."
+msgstr ""
+"Bizning Mijoz himoyasi sizning xaridingizni bosishdan to yetkazib "
+"berishgacha qamrab oladi."
 
-#: .\templates\layout\footer.html:56
+#: .\templates\layout\footer.html:57
 msgid "24/7 Help Center"
 msgstr "Yordam markazi 24/7"
 
-#: .\templates\layout\footer.html:57
+#: .\templates\layout\footer.html:58
 msgid "Have a question? Call a Specialist or chat online."
-msgstr "Savolingiz bormi? Mutaxassisga qo'ng'iroq qiling yoki onlayn suhbat qiling."
+msgstr ""
+"Savolingiz bormi? Mutaxassisga qo'ng'iroq qiling yoki onlayn suhbat qiling."
 
-#: .\templates\layout\footer.html:78
+#: .\templates\layout\footer.html:79
 msgid ""
 "We are a team of designers and developers that create high quality HTML "
 "Template & Woocommerce, Shopify Theme."
-msgstr "Biz yuqori sifatli HTML yaratuvchi dizaynerlar va ishlab chiquvchilar jamoasimiz"
-"Andoza va Woocommerce, Shopify mavzusi."
+msgstr ""
+"Biz yuqori sifatli HTML yaratuvchi dizaynerlar va ishlab chiquvchilar "
+"jamoasimizAndoza va Woocommerce, Shopify mavzusi."
 
-#: .\templates\layout\footer.html:100
+#: .\templates\layout\footer.html:101
 msgid "Product"
 msgstr "Siz uchun mahsulot"
 
-#: .\templates\layout\footer.html:102
+#: .\templates\layout\footer.html:103
 msgid "Prices drop"
 msgstr "Arzon narxlar"
 
-#: .\templates\layout\footer.html:103
+#: .\templates\layout\footer.html:104
 msgid "New products"
 msgstr "Yangi mahsulotlar"
 
-#: .\templates\layout\footer.html:104
+#: .\templates\layout\footer.html:105
 msgid "Best sales"
 msgstr "Eng yaxshi sotuvlar"
 
-#: .\templates\layout\footer.html:105
-msgid "Contact us"
-msgstr "biz bilan bog'laning"
-
-#: .\templates\layout\footer.html:113
+#: .\templates\layout\footer.html:114
 msgid "Our company"
 msgstr "Bizning kompanya"
 
-#: .\templates\layout\footer.html:115
+#: .\templates\layout\footer.html:116
 msgid "Delivery"
 msgstr "Yetkazib berish"
 
-#: .\templates\layout\footer.html:116
+#: .\templates\layout\footer.html:117
 msgid "Legal Notice"
 msgstr "Huquqiy eslatma"
 
-#: .\templates\layout\footer.html:126
+#: .\templates\layout\footer.html:127
 msgid "Follow Us"
 msgstr "Bizga qo'shiling"
 
-#: .\templates\layout\footer.html:162
+#: .\templates\layout\footer.html:163
 msgid "Sign up to newsletter"
 msgstr "Axborot byulleteniga obuna bo'ling"
 
-#: .\templates\layout\footer.html:167
+#: .\templates\layout\footer.html:168
 msgid "Subscribe"
 msgstr "Obuna boʻling"
 
-#: .\templates\layout\footer.html:188
+#: .\templates\layout\footer.html:189
 msgid "Online Shopping"
 msgstr "Online xarid"
 
-#: .\templates\layout\footer.html:189
+#: .\templates\layout\footer.html:190
 msgid "Promotions"
 msgstr "Aksiyalar"
 
-#: .\templates\layout\footer.html:190
+#: .\templates\layout\footer.html:191
 msgid "My Orders"
 msgstr "Mening buyurtmalarim"
 
-#: .\templates\layout\footer.html:191
+#: .\templates\layout\footer.html:192
 msgid "Help"
 msgstr "Yordam"
 
-#: .\templates\layout\footer.html:192
+#: .\templates\layout\footer.html:193
 msgid "Customer Service"
 msgstr "Mijozlarga xizmat ko'rsatish"
 
-#: .\templates\layout\footer.html:193
+#: .\templates\layout\footer.html:194
 msgid "Support"
 msgstr "Qo'llab-quvvatlash"
 
-#: .\templates\layout\footer.html:194
+#: .\templates\layout\footer.html:195
 msgid "Most Populars"
 msgstr "Eng mashhurlari"
 
-#: .\templates\layout\footer.html:195
+#: .\templates\layout\footer.html:196
 msgid "New Arrivals"
 msgstr "Yangi kelganlar"
 
-#: .\templates\layout\footer.html:196
+#: .\templates\layout\footer.html:197
 msgid "Special Products"
 msgstr "Mahsus mahsulotlar"
 
-#: .\templates\layout\footer.html:197
+#: .\templates\layout\footer.html:198
 msgid "Manufacturers"
 msgstr "Ishlab chiqaruvchilar"
 
-#: .\templates\layout\footer.html:198
+#: .\templates\layout\footer.html:199
 msgid "Our Stores"
 msgstr "Bizning do'konlar"
 
-#: .\templates\layout\footer.html:199
+#: .\templates\layout\footer.html:200
 msgid "Shipping"
 msgstr "yuk tashish"
 
-#: .\templates\layout\footer.html:200
+#: .\templates\layout\footer.html:201
 msgid "Payments"
 msgstr "To'lov"
 
-#: .\templates\layout\footer.html:201
+#: .\templates\layout\footer.html:202
 msgid "Warantee"
 msgstr "Kafolat"
 
-#: .\templates\layout\footer.html:202 .\templates\layout\footer.html:205
+#: .\templates\layout\footer.html:203 .\templates\layout\footer.html:206
 msgid "Refunds"
 msgstr "To'lovlarni qaytarish"
 
-#: .\templates\layout\footer.html:203 .\templates\layout\header-base.html:28
+#: .\templates\layout\footer.html:204 .\templates\layout\header-base.html:28
 #: .\templates\layout\header-home.html:28
 msgid "Checkout"
 msgstr "Ro'yxatdan o'chirilish"
 
-#: .\templates\layout\footer.html:204
+#: .\templates\layout\footer.html:205
 msgid "Discount"
 msgstr "Aksiya"
 
-#: .\templates\layout\footer.html:206
+#: .\templates\layout\footer.html:207
 msgid "Policy Shipping"
 msgstr "Yuk tashish siyosati"
 
-#: .\templates\layout\footer.html:219
+#: .\templates\layout\footer.html:220
 msgid "Templates Hub"
 msgstr "Shablonlar markazi"
 
