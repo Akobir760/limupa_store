@@ -26,7 +26,7 @@ urlpatterns = []
 urlpatterns += i18n_patterns (
     path('admin/', admin.site.urls),
     path('', include('pages.urls', namespace='pages')),
-    path('user', include('user.urls', namespace='user')),
+    path('user/', include('user.urls', namespace='user')),
 )
 
 
